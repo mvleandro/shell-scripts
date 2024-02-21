@@ -23,8 +23,8 @@ The shell scripts in this repository are designed to simplify common tasks and a
 To use the scripts in this repository, clone it to your local system, and ensure you have the necessary permissions to execute them.
 
 ```bash
-git clone https://github.com/your/repository.git
-cd shell-scripts-main
+git clone git@github.com:mvleandro/shell-scripts.git
+cd shell-scripts
 chmod +x *.sh
 ```
 
